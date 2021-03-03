@@ -15,7 +15,7 @@
         android:shadowDx="1.5"
         android:shadowDy="1.3"
         android:shadowRadius="1.6"
-        android:text="@string/scroll_view_demo"
+        android:text="English Lorem Ipsum"
         android:textAppearance="@style/TextAppearance.AppCompat.Headline"
         android:textColor="@color/my_blue"
         app:layout_constraintBottom_toTopOf="@+id/scrollView2"
@@ -39,7 +39,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:text="@string/lorem_ipsum">
+                android:text="@string/lorem_ipsum_eng">
 
             </TextView>
 
@@ -58,11 +58,11 @@
         app:layout_constraintTop_toBottomOf="@+id/scrollView2" >
 
         <Button
-            android:id="@+id/english"
+            android:id="@+id/back"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="English" />
+            android:text="Back" />
 
         <ImageView
             android:id="@+id/imageView"
@@ -71,12 +71,7 @@
             android:layout_weight="1"
             app:srcCompat="@drawable/ss_logo" />
 
-        <Button
-            android:id="@+id/spanish"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_weight="1"
-            android:text="Spanish" />
+
     </LinearLayout>
 
 

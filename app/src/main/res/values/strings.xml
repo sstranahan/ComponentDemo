@@ -1,3 +1,239 @@
 <resources>
     <string name="app_name">ComponentDemo</string>
+    <string name="scroll_view_demo">Scroll View Demo</string>
+    <string name="lorem_ipsum">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+        Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
+        anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+        Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
+        anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+        Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
+        anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+        Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
+        anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+        Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
+        anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+        Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
+        anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+        Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
+        anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+        Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
+        anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+        Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
+        anim id est laborum."</string>
+    <string name="lorem_ipsum_eng">"On the other hand, we denounce with righteous indignation and
+        dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so
+        blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue;
+        and equal blame belongs to those who fail in their duty through weakness of will, which is
+        the same as saying through shrinking from toil and pain. These cases are perfectly simple
+        and easy to distinguish. In a free hour, when our power of choice is untrammelled and when
+        nothing prevents our being able to do what we like best, every pleasure is to be welcomed
+        and every pain avoided. But in certain circumstances and owing to the claims of duty or the
+        obligations of business it will frequently occur that pleasures have to be repudiated and
+        annoyances accepted. The wise man therefore always holds in these matters to this principle
+        of selection: he rejects pleasures to secure other greater pleasures, or else he endures
+        pains to avoid worse pains. On the other hand, we denounce with righteous indignation and
+        dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so
+        blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue;
+        and equal blame belongs to those who fail in their duty through weakness of will, which is
+        the same as saying through shrinking from toil and pain. These cases are perfectly simple
+        and easy to distinguish. In a free hour, when our power of choice is untrammelled and when
+        nothing prevents our being able to do what we like best, every pleasure is to be welcomed
+        and every pain avoided. But in certain circumstances and owing to the claims of duty or the
+        obligations of business it will frequently occur that pleasures have to be repudiated and
+        annoyances accepted. The wise man therefore always holds in these matters to this principle
+        of selection: he rejects pleasures to secure other greater pleasures, or else he endures
+        pains to avoid worse pains. On the other hand, we denounce with righteous indignation and
+        dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so
+        blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue;
+        and equal blame belongs to those who fail in their duty through weakness of will, which is
+        the same as saying through shrinking from toil and pain. These cases are perfectly simple
+        and easy to distinguish. In a free hour, when our power of choice is untrammelled and when
+        nothing prevents our being able to do what we like best, every pleasure is to be welcomed
+        and every pain avoided. But in certain circumstances and owing to the claims of duty or the
+        obligations of business it will frequently occur that pleasures have to be repudiated and
+        annoyances accepted. The wise man therefore always holds in these matters to this principle
+        of selection: he rejects pleasures to secure other greater pleasures, or else he endures
+        pains to avoid worse pains. On the other hand, we denounce with righteous indignation and
+        dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so
+        blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue;
+        and equal blame belongs to those who fail in their duty through weakness of will, which is
+        the same as saying through shrinking from toil and pain. These cases are perfectly simple
+        and easy to distinguish. In a free hour, when our power of choice is untrammelled and when
+        nothing prevents our being able to do what we like best, every pleasure is to be welcomed
+        and every pain avoided. But in certain circumstances and owing to the claims of duty or the
+        obligations of business it will frequently occur that pleasures have to be repudiated and
+        annoyances accepted. The wise man therefore always holds in these matters to this principle
+        of selection: he rejects pleasures to secure other greater pleasures, or else he endures
+        pains to avoid worse pains. On the other hand, we denounce with righteous indignation and
+        dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so
+        blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue;
+        and equal blame belongs to those who fail in their duty through weakness of will, which is
+        the same as saying through shrinking from toil and pain. These cases are perfectly simple
+        and easy to distinguish. In a free hour, when our power of choice is untrammelled and when
+        nothing prevents our being able to do what we like best, every pleasure is to be welcomed
+        and every pain avoided. But in certain circumstances and owing to the claims of duty or the
+        obligations of business it will frequently occur that pleasures have to be repudiated and
+        annoyances accepted. The wise man therefore always holds in these matters to this principle
+        of selection: he rejects pleasures to secure other greater pleasures, or else he endures
+        pains to avoid worse pains. On the other hand, we denounce with righteous indignation and
+        dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so
+        blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue;
+        and equal blame belongs to those who fail in their duty through weakness of will, which is
+        the same as saying through shrinking from toil and pain. These cases are perfectly simple
+        and easy to distinguish. In a free hour, when our power of choice is untrammelled and when
+        nothing prevents our being able to do what we like best, every pleasure is to be welcomed
+        and every pain avoided. But in certain circumstances and owing to the claims of duty or the
+        obligations of business it will frequently occur that pleasures have to be repudiated and
+        annoyances accepted. The wise man therefore always holds in these matters to this principle
+        of selection: he rejects pleasures to secure other greater pleasures, or else he endures
+        pains to avoid worse pains. On the other hand, we denounce with righteous indignation and
+        dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so
+        blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue;
+        and equal blame belongs to those who fail in their duty through weakness of will, which is
+        the same as saying through shrinking from toil and pain. These cases are perfectly simple
+        and easy to distinguish. In a free hour, when our power of choice is untrammelled and when
+        nothing prevents our being able to do what we like best, every pleasure is to be welcomed
+        and every pain avoided. But in certain circumstances and owing to the claims of duty or the
+        obligations of business it will frequently occur that pleasures have to be repudiated and
+        annoyances accepted. The wise man therefore always holds in these matters to this principle
+        of selection: he rejects pleasures to secure other greater pleasures, or else he endures
+        pains to avoid worse pains."</string>
+    <string name="lorem_ipsum_span">"Por otro lado, denunciamos con justa indignación y
+        disgustan a los hombres que están tan engañados y desmoralizados por los encantos del placer
+        del momento, cegados por el deseo, que no pueden prever el dolor y los problemas que están destinados a sobrevenir;
+        e igual culpa pertenece a aquellos que fallan en su deber por debilidad de voluntad, que es
+        lo mismo que decir encogiéndonos ante el trabajo y el dolor. Estos casos son perfectamente simples
+        y fácil de distinguir. En una hora libre, cuando nuestro poder de elección esté libre y cuando
+        nada impide que podamos hacer lo que más nos gusta, cada placer es para ser bienvenido
+        y todo dolor evitado. Pero en determinadas circunstancias y debido a las exigencias del deber o la
+        obligaciones comerciales, ocurrirá con frecuencia que los placeres tienen que ser repudiados y
+        molestias aceptadas. El sabio, por lo tanto, siempre se aferra a este principio en estos asuntos.
+        de selección: rechaza los placeres para obtener otros placeres mayores, o de lo contrario soporta
+        dolores para evitar dolores peores. Por otro lado, denunciamos con justa indignación y
+        disgustan a los hombres que están tan engañados y desmoralizados por los encantos del placer
+        del momento, cegados por el deseo, que no pueden prever el dolor y los problemas que están destinados a sobrevenir;
+        e igual culpa pertenece a aquellos que fallan en su deber por debilidad de voluntad, que es
+        lo mismo que decir encogiéndonos ante el trabajo y el dolor. Estos casos son perfectamente simples
+        y fácil de distinguir. En una hora libre, cuando nuestro poder de elección esté libre y cuando
+        nada impide que podamos hacer lo que más nos gusta, cada placer es para ser bienvenido
+        y todo dolor evitado. Pero en determinadas circunstancias y debido a las exigencias del deber o la
+        obligaciones comerciales, ocurrirá con frecuencia que los placeres tienen que ser repudiados y
+        molestias aceptadas. El sabio, por lo tanto, siempre se aferra a este principio en estos asuntos.
+        de selección: rechaza los placeres para obtener otros placeres mayores, o de lo contrario soporta
+        dolores para evitar dolores peores. Por otro lado, denunciamos con justa indignación y
+        disgustan a los hombres que están tan engañados y desmoralizados por los encantos del placer
+        del momento, cegados por el deseo, que no pueden prever el dolor y los problemas que están destinados a sobrevenir;
+        e igual culpa pertenece a aquellos que fallan en su deber por debilidad de voluntad, que es
+        lo mismo que decir encogiéndonos ante el trabajo y el dolor. Estos casos son perfectamente simples
+        y fácil de distinguir. En una hora libre, cuando nuestro poder de elección esté libre y cuando
+        nada impide que podamos hacer lo que más nos gusta, cada placer es para ser bienvenido
+        y todo dolor evitado. Pero en determinadas circunstancias y debido a las exigencias del deber o la
+        obligaciones comerciales, ocurrirá con frecuencia que los placeres tienen que ser repudiados y
+        molestias aceptadas. El sabio, por lo tanto, siempre se aferra a este principio en estos asuntos.
+        de selección: rechaza los placeres para obtener otros placeres mayores, o de lo contrario soporta
+        dolores para evitar dolores peores. Por otro lado, denunciamos con justa indignación y
+        disgustan a los hombres que están tan engañados y desmoralizados por los encantos del placer
+        del momento, cegados por el deseo, que no pueden prever el dolor y los problemas que están destinados a sobrevenir;
+        e igual culpa pertenece a aquellos que fallan en su deber por debilidad de voluntad, que es
+        lo mismo que decir encogiéndonos ante el trabajo y el dolor. Estos casos son perfectamente simples
+        y fácil de distinguir. En una hora libre, cuando nuestro poder de elección esté libre y cuando
+        nada impide que podamos hacer lo que más nos gusta, cada placer es para ser bienvenido
+        y todo dolor evitado. Pero en determinadas circunstancias y debido a las exigencias del deber o la
+        obligaciones comerciales, ocurrirá con frecuencia que los placeres tienen que ser repudiados y
+        molestias aceptadas. El sabio, por lo tanto, siempre se aferra a este principio en estos asuntos.
+        de selección: rechaza los placeres para obtener otros placeres mayores, o de lo contrario soporta
+        dolores para evitar dolores peores. Por otro lado, denunciamos con justa indignación y
+        disgustan a los hombres que están tan engañados y desmoralizados por los encantos del placer
+        del momento, cegados por el deseo, que no pueden prever el dolor y los problemas que están destinados a sobrevenir;
+        e igual culpa pertenece a aquellos que fallan en su deber por debilidad de voluntad, que es
+        lo mismo que decir encogiéndonos ante el trabajo y el dolor. Estos casos son perfectamente simples
+        y fácil de distinguir. En una hora libre, cuando nuestro poder de elección esté libre y cuando
+        nada impide que podamos hacer lo que más nos gusta, cada placer es para ser bienvenido
+        y todo dolor evitado. Pero en determinadas circunstancias y debido a las exigencias del deber o la
+        obligaciones comerciales, ocurrirá con frecuencia que los placeres tienen que ser repudiados y
+        molestias aceptadas. El sabio, por lo tanto, siempre se aferra a este principio en estos asuntos.
+        de selección: rechaza los placeres para obtener otros placeres mayores, o de lo contrario soporta
+        dolores para evitar dolores peores. Por otro lado, denunciamos con justa indignación y
+        disgustan a los hombres que están tan engañados y desmoralizados por los encantos del placer
+        del momento, cegados por el deseo, que no pueden prever el dolor y los problemas que están destinados a sobrevenir;
+        e igual culpa pertenece a aquellos que fallan en su deber por debilidad de voluntad, que es
+        lo mismo que decir encogiéndonos ante el trabajo y el dolor. Estos casos son perfectamente simples
+        y fácil de distinguir. En una hora libre, cuando nuestro poder de elección esté libre y cuando
+        nada impide que podamos hacer lo que más nos gusta, cada placer es para ser bienvenido
+        y todo dolor evitado. Pero en determinadas circunstancias y debido a las exigencias del deber o la
+        obligaciones comerciales, ocurrirá con frecuencia que los placeres tienen que ser repudiados y
+        molestias aceptadas. El sabio, por lo tanto, siempre se aferra a este principio en estos asuntos.
+        de selección: rechaza los placeres para obtener otros placeres mayores, o de lo contrario soporta
+        dolores para evitar dolores peores. Por otro lado, denunciamos con justa indignación y
+        disgustan a los hombres que están tan engañados y desmoralizados por los encantos del placer
+        del momento, cegados por el deseo, que no pueden prever el dolor y los problemas que están destinados a sobrevenir;
+        e igual culpa pertenece a aquellos que fallan en su deber por debilidad de voluntad, que es
+        lo mismo que decir encogiéndonos ante el trabajo y el dolor. Estos casos son perfectamente simples
+        y fácil de distinguir. En una hora libre, cuando nuestro poder de elección esté libre y cuando
+        nada impide que podamos hacer lo que más nos gusta, cada placer es para ser bienvenido
+        y todo dolor evitado. Pero en determinadas circunstancias y debido a las exigencias del deber o la
+        obligaciones comerciales, ocurrirá con frecuencia que los placeres tienen que ser repudiados y
+        molestias aceptadas. El sabio, por lo tanto, siempre se aferra a este principio en estos asuntos.
+        de selección: rechaza los placeres para obtener otros placeres mayores, o de lo contrario soporta
+        dolores para evitar dolores peores. Por otro lado, denunciamos con justa indignación y
+        disgustan a los hombres que están tan engañados y desmoralizados por los encantos del placer
+        del momento, cegados por el deseo, que no pueden prever el dolor y los problemas que están destinados a sobrevenir;
+        e igual culpa pertenece a aquellos que fallan en su deber por debilidad de voluntad, que es
+        lo mismo que decir encogiéndonos ante el trabajo y el dolor. Estos casos son perfectamente simples
+        y fácil de distinguir. En una hora libre, cuando nuestro poder de elección esté libre y cuando
+        nada impide que podamos hacer lo que más nos gusta, cada placer es para ser bienvenido
+        y todo dolor evitado. Pero en determinadas circunstancias y debido a las exigencias del deber o la
+        obligaciones comerciales, ocurrirá con frecuencia que los placeres tienen que ser repudiados y
+        molestias aceptadas. El sabio, por lo tanto, siempre se aferra a este principio en estos asuntos.
+        de selección: rechaza los placeres para obtener otros placeres mayores, o de lo contrario soporta
+        dolores para evitar dolores peores. Por otro lado, denunciamos con justa indignación y
+        disgustan a los hombres que están tan engañados y desmoralizados por los encantos del placer
+        del momento, cegados por el deseo, que no pueden prever el dolor y los problemas que están destinados a sobrevenir;
+        e igual culpa pertenece a aquellos que fallan en su deber por debilidad de voluntad, que es
+        lo mismo que decir encogiéndonos ante el trabajo y el dolor. Estos casos son perfectamente simples
+        y fácil de distinguir. En una hora libre, cuando nuestro poder de elección esté libre y cuando
+        nada impide que podamos hacer lo que más nos gusta, cada placer es para ser bienvenido
+        y todo dolor evitado. Pero en determinadas circunstancias y debido a las exigencias del deber o la
+        obligaciones comerciales, ocurrirá con frecuencia que los placeres tienen que ser repudiados y
+        molestias aceptadas. El sabio, por lo tanto, siempre se aferra a este principio en estos asuntos.
+        de selección: rechaza los placeres para obtener otros placeres mayores, o de lo contrario soporta
+        dolores para evitar dolores peores. Por otro lado, denunciamos con justa indignación y
+        disgustan a los hombres que están tan engañados y desmoralizados por los encantos del placer
+        del momento, cegados por el deseo, que no pueden prever el dolor y los problemas que están destinados a sobrevenir;
+        e igual culpa pertenece a aquellos que fallan en su deber por debilidad de voluntad, que es
+        lo mismo que decir encogiéndonos ante el trabajo y el dolor. Estos casos son perfectamente simples
+        y fácil de distinguir. En una hora libre, cuando nuestro poder de elección esté libre y cuando
+        nada impide que podamos hacer lo que más nos gusta, cada placer es para ser bienvenido
+        y todo dolor evitado. Pero en determinadas circunstancias y debido a las exigencias del deber o la
+        obligaciones comerciales, ocurrirá con frecuencia que los placeres tienen que ser repudiados y
+        molestias aceptadas. El sabio, por lo tanto, siempre se aferra a este principio en estos asuntos.
+        de selección: rechaza los placeres para obtener otros placeres mayores, o de lo contrario soporta
+        dolores para evitar dolores peores."</string>
 </resources>
